@@ -104,12 +104,10 @@ smartcart.ipynb
 ---
 
 
-## 👩‍💻 Author
+
 
 **Shweta Bairagi**
 B.Tech CSE (Education Technology)
 Machine Learning Enthusiast
 
----
 
-⭐ If you like this project, don’t forget to star the repo!
